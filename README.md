@@ -53,4 +53,4 @@ Si le blocage ne marche plus après une mise à jour d'Instagram :
 - Une mise à jour d'Instagram peut casser la détection : voir « Maintenance ».
 
 ## Licence
-À choisir (phase 5).
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
