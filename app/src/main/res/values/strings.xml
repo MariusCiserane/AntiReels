@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anti-Reels</string>
+    <string name="service_label">Anti-Reels</string>
+    <string name="service_description">Observe uniquement l’application Instagram pour bloquer l’onglet Reels et le défilement entre les reels. Rien n’est lu, enregistré ni envoyé : l’application n’a pas accès à Internet.</string>
+</resources>
